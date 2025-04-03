@@ -1,0 +1,7 @@
+luna_pinyin.userdb/
+*.log
+*.bin
+*.db
+build/
+installation.yaml
+rime.log
