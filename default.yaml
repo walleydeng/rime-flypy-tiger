@@ -9,8 +9,8 @@ schema_list:
   - schema: luna_pinyin_fluency
 
 
-  - schema: stroke
-  - schema: terra_pinyin
+
+  
 
 switcher:
   caption: 〔方案選單〕
